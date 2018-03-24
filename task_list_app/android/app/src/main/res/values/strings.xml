@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_preferences">Tasky preferences</string>
+    <string name="sort_preferences">Tasks order</string>
+    <string name="sort_summary">Configure alphabetic task order</string>
+</resources>

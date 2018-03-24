@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="sort_orders">
+        <item name="ascending">Ascending</item>
+        <item name="descending">Descending</item>
+    </string-array>
+    <string-array name="sort_order_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/app_preferences">
+
+        <ListPreference android:key="flutter.sort"
+            android:defaultValue="0"
+            android:title="@string/sort_preferences"
+            android:dialogTitle="@string/sort_preferences"
+            android:entries="@array/sort_orders"
+            android:entryValues="@array/sort_order_values"/>
+    </PreferenceCategory>
+</PreferenceScreen>
